@@ -1,6 +1,10 @@
 # `bit-turtle`
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)  
 [![website](https://readme-typing-svg.demolab.com?font=Bytesized&pause=1000&color=90EE90&repeat=false&width=435&lines=https%3A%2F%2Fbit-turtle.github.io)](https://bit-turtle.github.io)  
 ![bit-turtle](https://github-readme-stats.vercel.app/api/top-langs?username=bit-turtle&show_icons=true&theme=tokyonight&layout=compact)
 ## `Current Projects`
-[![Roxus](https://github-readme-stats.vercel.app/api/pin/?username=bit-turtle&repo=roxus&theme=tokyonight)](https://github.com/bit-turtle/roxus)
+[![Roxus](https://github-readme-stats.vercel.app/api/pin/?username=bit-turtle&repo=roxus&theme=tokyonight)](https://github.com/bit-turtle/roxus)  
 [![Asteroidal](https://github-readme-stats.vercel.app/api/pin/?username=bit-turtle&repo=asteroidal&theme=tokyonight)](https://github.com/bit-turtle/asteroidal)
